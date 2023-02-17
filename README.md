@@ -76,7 +76,7 @@ The sample table definition has already been created with the name `00_rent_tabl
 
 http://localhost:8000/api/v1/docs
 
-![screen](https://github.com/lesilencieux/city-rents-api.git/city-rents-api/api/images/13.png)
+![screen](https://github.com/lesilencieux/city-rents-api/tree/main/api/images/13.png)
 
 ### API Testing via swagger-ui
 
@@ -88,11 +88,11 @@ http://localhost:8000/api/v1/docs
   "price": 800
 }
 
-![screen](https://github.com/lesilencieux/city-rents-api.git/city-rents-api/api/images/12.png)
+![screen](https://github.com/lesilencieux/city-rents-api/tree/main/api/images/12.png)
 
 - Result
 
-![screen](https://github.com/lesilencieux/city-rents-api.git/city-rents-api/api/images/11.png)
+![screen](https://github.com/lesilencieux/city-rents-api/tree/main/api/images/11.png)
 
 
 NB :  If the screens shot do not show properly you can got to se it directly in `/images` folder
